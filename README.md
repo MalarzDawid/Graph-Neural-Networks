@@ -18,3 +18,6 @@ Papers:
 - ChebNets [Click](https://arxiv.org/abs/1606.09375)
 - GraphSAGE [Click](https://arxiv.org/abs/1706.02216)
 - PinSage [Click](https://arxiv.org/abs/1806.01973)
+
+Books:
+- Graph Neural Networks [Click](https://graph-neural-networks.github.io/index.html#tab-part1)
