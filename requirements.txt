@@ -1,4 +1,6 @@
 torch
 torchvision
 pytorch-lightning
+torch_geometric
 black
+notebook
